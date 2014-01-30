@@ -1,0 +1,599 @@
+/* Index of this css file
+-----------------------------------
+
+	1. General
+	2. Mobile landscape
+	3. iPad portrait
+	4. iPad landscape
+
+-----------------------------------*/
+
+
+/* 1. GENERAL RESPONSIVE QUERIES
+----------------------------------- */
+
+@media only screen and (max-width:755px) {
+
+#portfolio-filter li a {
+	margin-bottom:15px;
+}
+
+#drawer-toggle {
+	display:none;
+}
+
+.nav2 {
+	display: none;
+}
+    
+.header-nav2 {
+	display:inline-block;
+	width: 37px;
+	height: 41px;
+	margin: 0px 0;
+	padding:0px;
+	position: relative;
+	float:left;
+}
+
+.header-nav2 div {
+	margin:0 auto;
+	width: 83%;
+	z-index: 50;
+	display:block!important;
+}
+
+.select-menu {
+	display: block;
+	width: 100%;
+	float: left;
+}
+	
+.header-nav2 select.select-menu {
+	position: relative;
+	z-index: 10;
+	width: 30px;
+	height: 26px !important;
+	line-height: 60px;
+	margin-top:20px;
+	margin-left:-10px;
+	float:left;
+	display:block;
+}
+	
+.header-nav2:before {
+	font-family: 'FontAwesome';
+	-webkit-font-smoothing: antialiased;
+	content: "\f0c9";
+	position: absolute;
+	color: #666;
+	left: 10px;
+	top: 0;
+	margin-left:-10px;
+}
+	
+.header-nav2 span.select {
+	display: block;
+}
+
+.header-nav2 span.select{
+	font-family: 'Open Sans', sans-serif;
+	position: absolute;
+	top: 0;
+	margin:0 auto;
+	left: 0;
+	text-align:left;
+	width: 80%;
+	height: 41px;
+	line-height: 43px;
+	font-size: 13px;
+	color: #fff;
+	text-indent: 15px;
+	cursor: default;
+	z-index: 1;
+	padding-left: 20px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#wrap {
+	width:95%;
+}
+
+.hero-inner p {
+	width:100%;
+}
+
+.hidden-trigger {
+	width:100%;
+	float: left;
+	display: inline;
+	line-height: 60px;
+	padding-left: 0px;
+}
+
+.hero-icon a {
+	display:none;
+}
+
+.intro-text { 
+	padding-bottom:20px;
+}
+
+.left-float {
+	text-align:left;
+	float:none;
+	width:100%;
+	padding-bottom:20px;
+}
+
+.right-float {
+	text-align:left;
+	float:left;
+	width:100%;
+}
+
+#overlay .socials {
+	display:none;
+}
+
+.hidden-trigger i {
+	padding-left: 0px;
+	padding-right:20px;
+}
+
+.socials {
+	padding-top: 0px;
+	float: none;
+	text-align:left;
+}
+
+#footer-bottom-inside .socials a {
+	padding-right: 8px;
+	padding-left:0px;
+}
+
+#footer-bottom-inside {
+	padding-bottom: 30px;
+}
+
+.logo-text {
+	display:block;
+	width:100%;
+}
+
+.overlay-inner {
+	padding:0px;
+}
+        
+.post {
+	padding-bottom: 0;
+}
+    
+#wrapper {
+	width: 100%;
+}
+
+.date-title {
+	margin: 0 0 0px 0;
+}
+	
+.entry-title {
+	font-size: 28px;
+	line-height: 34px;
+	letter-spacing: -1px;
+	padding-bottom: 25px;
+}
+	
+.post .post-content {
+	font: 14px/24px 'Open Sans', sans serif;
+}
+	
+#content .meta {
+	margin: 10px 0 0px 0 !important;
+}
+
+#content .meta {
+	margin-left: 0px !important;
+	padding-left:0px !important;
+}
+	
+#content .post-nav {
+	padding: 10px 0;
+	margin-top: 20px;
+}
+	
+#comments {
+	padding-bottom: 0;
+}
+	
+.comments-wrap {
+	width: 80%;
+	margin: 0 auto;
+}
+	
+.comments-open { 
+	margin-bottom: 40px !important;
+}
+	
+.commentlist li {
+	padding: 0 0 5px 0;
+	margin: 0 0 35px 0;
+}
+	
+.commentlist > li:before {
+	display: none;
+}
+	
+#comments-title {
+	margin: 0 0 0 0;
+	font-size: 18px;
+	letter-spacing: 0;
+	padding: 30px 0;
+}
+
+.comments-open #comments-title {
+	margin-bottom: 40px;
+}
+	
+.comment-meta {
+	margin: 0 0 0 15px;
+}
+	
+.fn {
+	float: none;
+}
+	
+.comment-text {
+	font: 14px/22px 'Open Sans', sans serif;
+}
+	
+#respond {
+	padding-bottom: 0px;
+}
+	
+#respond h3 {
+	margin-top: 0;
+}
+	
+#respond input[type="text"], #respond textarea {
+	font: 14px/22px 'Open Sans', sans serif;
+	width: 100%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+	
+#respond .respond-submit {
+	width: 100%;
+}
+	
+.comments .logged-in {
+	font-size: 14px;
+}
+	
+#footer .widget {
+	float: left;
+	width: 100%;
+	margin: 0 0 25px 0;
+	padding: 0 0 25px 0;
+}
+	
+#footer .widget:last-child {
+	margin: 0;
+	padding: 0;
+	border-bottom: none;
+	float: left;
+	width: 100%;
+	margin: 0 0 0px 0;
+	padding: 0 0 0px 0;
+}
+	
+#footer .widget .widgettitle {
+	margin-bottom: 10px;
+}
+
+	
+.header-top-inner .search-form {
+	width:20px;
+	padding-right:25px;
+}
+
+#hero {
+	opacity:1!important;
+}
+
+}
+
+@media only screen and (max-width: 479px) {
+.one-half,
+.one-third,
+.two-third,
+.one-fourth,
+.three-fourth,
+.one-fifth,
+.two-fifth,
+.three-fifth,
+.four-fifth,
+.one-sixth,
+.five-sixth{
+	width: 100%;
+        margin: 10px 0;
+}
+
+.hero-inner h1,
+.hero-inner p,
+.hero-inner {
+	text-align:center;
+}
+
+ 
+/* 2. MOBILE LANDSCAPE
+----------------------------------- */
+
+@media only screen and (min-width: 480px) and (max-width: 680px) {
+
+    
+.left-float {
+	text-align: left;
+	float: left;
+	width:100%;
+	padding-bottom: 0px;
+}
+
+.socials {
+	padding-top: 0px;
+	float: left;
+	text-align:left;
+	margin-bottom:15px;
+}
+    
+.post {
+	margin-bottom: 25px;
+	padding-bottom: 0;
+}
+
+.date-title {
+	margin: 0 0 0px 0;
+}
+	
+.entry-title {
+	font-size: 28px;
+	line-height: 34px;
+	letter-spacing: -1px;
+	padding-bottom: 25px;
+}
+	
+.post .post-content {
+	font: 14px/24px 'Open Sans', sans serif;
+}
+	
+#content .meta {
+	margin: 10px 0 0px 0 !important;
+}
+
+#content .meta {
+	margin-left: 0px !important;
+	padding-left:0px !important;
+}
+	
+.next-prev-mobile {
+	display: block;
+}
+	
+#content .post-nav {
+	padding: 10px 0;
+	margin-top: 20px;
+}
+	
+#comments {
+	padding-bottom: 0;
+	}
+	
+.comments-wrap {
+	width: 80%;
+	margin: 0 auto;
+}
+	
+.comments-open { 
+	margin-bottom: 40px !important;
+}
+	
+.commentlist li {
+	padding: 0 0 5px 0;
+	margin: 0 0 35px 0;
+}
+	
+.commentlist > li:before {
+	display: none;
+}
+	
+#comments-title {
+	margin: 0 0 0 0;
+	font-size: 18px;
+	letter-spacing: 0;
+	padding: 30px 0;
+}
+
+
+#hero {
+	opacity:1!important;
+}
+
+}
+
+
+/* 3. IPAD PORTRAIT
+----------------------------------- */
+
+@media screen and (min-width:650px) and (max-width:768px) {
+
+#drawer-toggle {
+	display:none;
+}
+
+.nav2 {
+	display: none;
+}
+    
+.header-nav2 {
+	display:inline-block;
+	width: 37px;
+	height: 41px;
+	margin: 0px 0;
+	padding:0px;
+	position: relative;
+	float:left;
+}
+
+.header-nav2 div {
+	margin:0 auto;
+	width: 83%;
+	z-index: 50;
+	display:block!important;
+}
+
+.select-menu {
+	display: block;
+	width: 100%;
+	float: left;
+}
+	
+.header-nav2 select.select-menu {
+	position: relative;
+	z-index: 10;
+	width: 30px;
+	height: 26px !important;
+	line-height: 60px;
+	margin-top:20px;
+	margin-left:-10px;
+	float:left;
+	display:block;
+}
+	
+.header-nav2:before {
+	font-family: 'FontAwesome';
+	-webkit-font-smoothing: antialiased;
+	content: "\f0c9";
+	position: absolute;
+	color: #666;
+	left: 10px;
+	top: 0;
+	margin-left:-10px;
+}
+	
+.header-nav2 span.select {
+	display: block;
+}
+
+.header-nav2 span.select{
+	font-family: 'Open Sans', sans-serif;
+	position: absolute;
+	top: 0;
+	margin:0 auto;
+	left: 0;
+	text-align:left;
+	width: 80%;
+	height: 41px;
+	line-height: 43px;
+	font-size: 13px;
+	color: #fff;
+	text-indent: 15px;
+	cursor: default;
+	z-index: 1;
+	padding-left: 20px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+
+}
+
+/* 4. IPAD LANDSCAPE
+----------------------------------- */
+
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:landscape) {
+
+#drawer-toggle {
+	display:none;
+}
+
+.nav2 {
+	display: none;
+}
+    
+.header-nav2 {
+	display:inline-block;
+	width: 17px;
+	height: 41px;
+	margin: 0px 0;
+	padding:0px;
+	position: relative;
+	float:left;
+}
+
+.header-nav2 div {
+	margin:0 auto;
+	width: 83%;
+	z-index: 50;
+	display:block!important;
+}
+
+.select-menu {
+	display: block;
+	width: 100%;
+	float: left;
+}
+	
+.header-nav2 select.select-menu {
+	position: relative;
+	z-index: 10;
+	width: 30px;
+	height: 26px !important;
+	line-height: 60px;
+	margin-top:20px;
+	margin-left:-10px;
+	float:left;
+	display:block;
+}
+	
+.header-nav2:before {
+	font-family: 'FontAwesome';
+	-webkit-font-smoothing: antialiased;
+	content: "\f0c9";
+	position: absolute;
+	color: #666;
+	left: 10px;
+	top: 0;
+	margin-left:-10px;
+}
+	
+.header-nav2 span.select {
+	display: block;
+}
+
+.header-nav2 span.select{
+	font-family: 'Open Sans', sans-serif;
+	position: absolute;
+	top: 0;
+	margin:0 auto;
+	left: 0;
+	text-align:left;
+	width: 80%;
+	height: 41px;
+	line-height: 43px;
+	font-size: 13px;
+	color: #fff;
+	text-indent: 15px;
+	cursor: default;
+	z-index: 1;
+	padding-left: 20px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+
+}

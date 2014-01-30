@@ -1,0 +1,519 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Creaytve\n"
+"POT-Creation-Date: 2013-11-06 17:43+0100\n"
+"PO-Revision-Date: 2013-11-06 17:43+0100\n"
+"Last-Translator: \n"
+"Language-Team: Playne Themes <support@playnethemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_;_e;_n:1,2;_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ...\n"
+
+.../comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+.../comments.php:22
+msgid "&larr; Older Comments"
+msgstr ""
+
+.../comments.php:23
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+.../customizer.php:22
+msgid "Logo image"
+msgstr ""
+
+.../customizer.php:24
+msgid "Upload a logo image which will replace the logo text."
+msgstr ""
+
+.../customizer.php:35
+msgid "Logo Upload"
+msgstr ""
+
+.../customizer.php:42
+msgid "Favicon image"
+msgstr ""
+
+.../customizer.php:44
+msgid "Upload a favicon for your webpage."
+msgstr ""
+
+.../customizer.php:52
+msgid "Favicon Upload"
+msgstr ""
+
+.../customizer.php:59
+msgid "Social icons"
+msgstr ""
+
+.../customizer.php:61
+msgid ""
+"These are the social icons that appear inside the header area and the footer "
+"area. If they are left blank they will not display."
+msgstr ""
+
+.../customizer.php:69
+msgid "Facebook link"
+msgstr ""
+
+.../customizer.php:80
+msgid "Google link"
+msgstr ""
+
+.../customizer.php:91
+msgid "Twitter link"
+msgstr ""
+
+.../customizer.php:102
+msgid "Tumblr link"
+msgstr ""
+
+.../customizer.php:113
+msgid "Flickr link"
+msgstr ""
+
+.../customizer.php:124
+msgid "Dribbble link"
+msgstr ""
+
+.../customizer.php:135
+msgid "Linkedin link"
+msgstr ""
+
+.../customizer.php:146
+msgid "Instagram link"
+msgstr ""
+
+.../customizer.php:157
+msgid "Mail link (mailto:youremail@mail.com)"
+msgstr ""
+
+.../customizer.php:168
+msgid "Skype link"
+msgstr ""
+
+.../customizer.php:179
+msgid "RSS link"
+msgstr ""
+
+.../customizer.php:186
+msgid "Search area"
+msgstr ""
+
+.../customizer.php:188
+msgid "This is the text and intro header for the hidden search toggle area."
+msgstr ""
+
+.../customizer.php:195
+msgid "Search header text"
+msgstr ""
+
+.../customizer.php:206
+msgid "Search text"
+msgstr ""
+
+.../customizer.php:217
+msgid "Portfolio Header"
+msgstr ""
+
+.../customizer.php:219
+msgid "This is the intro text for the Portfolio page"
+msgstr ""
+
+.../customizer.php:226
+msgid "Portfolio intro header"
+msgstr ""
+
+.../customizer.php:236
+msgid "Portfolio intro text"
+msgstr ""
+
+.../customizer.php:245
+msgid "Intro Header"
+msgstr ""
+
+.../customizer.php:247
+msgid ""
+"If the homepage is not the blog page these are the controls for the intro "
+"header."
+msgstr ""
+
+.../customizer.php:254
+#: Themes/Wordpress/wp-content/themes/Creaytve/customizer.php:308
+msgid "Intro header"
+msgstr ""
+
+.../customizer.php:265
+msgid "Detailed text"
+msgstr ""
+
+.../customizer.php:278
+#: Themes/Wordpress/wp-content/themes/Creaytve/customizer.php:330
+msgid "Button text"
+msgstr ""
+
+.../customizer.php:289
+msgid "Button URL (start with http://)"
+msgstr ""
+
+.../customizer.php:299
+msgid "Blog Header"
+msgstr ""
+
+.../customizer.php:301
+msgid ""
+"If the homepage is set to the latest blog posts these are the controls for "
+"the intro header."
+msgstr ""
+
+.../customizer.php:320
+msgid "Intro text"
+msgstr ""
+
+.../customizer.php:341
+msgid "Button URL (if not filled a scroll to button will be placed instead)"
+msgstr ""
+
+.../customizer.php:350
+msgid "Accent Color"
+msgstr ""
+
+.../customizer.php:362
+msgid "Logo text Color "
+msgstr ""
+
+.../customizer.php:374
+msgid "Header icon Color "
+msgstr ""
+
+.../customizer.php:386
+msgid "Header & Footer Color"
+msgstr ""
+
+.../customizer.php:398
+msgid "Intro & load Color Homepage"
+msgstr ""
+
+.../customizer.php:410
+msgid "Footer header text Color"
+msgstr ""
+
+.../customizer.php:422
+msgid "Footer text Color "
+msgstr ""
+
+.../format-aside.php:13
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-audio.php:18
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-chat.php:22
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-gallery.php:34
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-image.php:13
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-link.php:9
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-quote.php:7
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-standard.php:20
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-video.php:16
+#: Themes/Wordpress/wp-content/themes/Creaytve/page-gallery.php:40
+msgid "0 comments"
+msgstr ""
+
+.../format-aside.php:13
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-audio.php:18
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-chat.php:22
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-gallery.php:34
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-image.php:13
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-link.php:9
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-quote.php:7
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-standard.php:20
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-video.php:16
+#: Themes/Wordpress/wp-content/themes/Creaytve/page-gallery.php:40
+msgid "1 comment"
+msgstr ""
+
+.../format-aside.php:13
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-audio.php:18
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-chat.php:22
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-gallery.php:34
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-image.php:13
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-link.php:9
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-quote.php:7
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-standard.php:20
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-video.php:16
+#: Themes/Wordpress/wp-content/themes/Creaytve/page-gallery.php:40
+#, php-format
+msgid "% comments"
+msgstr ""
+
+.../format-aside.php:28
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-audio.php:33
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-chat.php:35
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-gallery.php:48
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-image.php:27
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-standard.php:35
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-video.php:31
+#: Themes/Wordpress/wp-content/themes/Creaytve/page-gallery.php:54
+msgid "read more"
+msgstr ""
+
+.../format-aside.php:28
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-audio.php:33
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-chat.php:35
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-gallery.php:48
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-image.php:27
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-standard.php:35
+#: Themes/Wordpress/wp-content/themes/Creaytve/format-video.php:31
+#: Themes/Wordpress/wp-content/themes/Creaytve/page-gallery.php:54
+msgid "Read more"
+msgstr ""
+
+.../format-link.php:27
+msgid "visit"
+msgstr ""
+
+.../functions.php:62
+#: Themes/Wordpress/wp-content/themes/Creaytve/functions.php:63
+msgid "<div class=\"centered\"><a class=\"more-link\" href=\""
+msgstr ""
+
+.../functions.php:154
+msgid "Footer 1"
+msgstr ""
+
+.../functions.php:156
+msgid "Widgets in this area are used in the first footer column"
+msgstr ""
+
+.../functions.php:162
+msgid "Footer 2"
+msgstr ""
+
+.../functions.php:164
+msgid "Widgets in this area are used in the second footer column"
+msgstr ""
+
+.../functions.php:170
+msgid "Footer 3"
+msgstr ""
+
+.../functions.php:172
+msgid "Widgets in this area are used in the third footer column"
+msgstr ""
+
+.../functions.php:197
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+.../functions.php:199
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+.../functions.php:199
+msgid "(Edit)"
+msgstr ""
+
+.../functions.php:213
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+.../functions.php:225
+msgid "Your Name *"
+msgstr ""
+
+.../functions.php:228
+msgid "Your Email *"
+msgstr ""
+
+.../functions.php:231
+msgid "Your Website"
+msgstr ""
+
+.../functions.php:266
+msgctxt "post type general name"
+msgid "Project"
+msgstr ""
+
+.../functions.php:267
+msgctxt "post type singular name"
+msgid "Project"
+msgstr ""
+
+.../functions.php:268
+msgctxt "project"
+msgid "Add New"
+msgstr ""
+
+.../functions.php:269
+msgid "Add New Project"
+msgstr ""
+
+.../functions.php:270
+msgid "Edit Project"
+msgstr ""
+
+.../functions.php:271
+msgid "New Project"
+msgstr ""
+
+.../functions.php:272
+msgid "View Project"
+msgstr ""
+
+.../functions.php:273
+msgid "Search Projects"
+msgstr ""
+
+.../functions.php:274
+msgid "No projects found"
+msgstr ""
+
+.../functions.php:275
+msgid "No projects found in Trash"
+msgstr ""
+
+.../functions.php:297
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+.../functions.php:298
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+.../functions.php:299
+msgid "Search Types"
+msgstr ""
+
+.../functions.php:300
+msgid "All Categories"
+msgstr ""
+
+.../functions.php:301
+msgid "Parent Category"
+msgstr ""
+
+.../functions.php:302
+msgid "Parent Category:"
+msgstr ""
+
+.../functions.php:303
+msgid "Edit Categoriess"
+msgstr ""
+
+.../functions.php:304
+msgid "Update Category"
+msgstr ""
+
+.../functions.php:305
+msgid "Add New Category"
+msgstr ""
+
+.../functions.php:306
+msgid "New Category Name"
+msgstr ""
+
+.../functions.php:325
+#, php-format
+msgid "Project updated. <a href=\"%s\">View project</a>"
+msgstr ""
+
+.../functions.php:326
+msgid "Custom field updated."
+msgstr ""
+
+.../functions.php:327
+msgid "Custom field deleted."
+msgstr ""
+
+.../functions.php:328
+msgid "Project updated."
+msgstr ""
+
+.../functions.php:330
+#, php-format
+msgid "Project restored to revision from %s"
+msgstr ""
+
+.../functions.php:331
+#, php-format
+msgid "Project published. <a href=\"%s\">View project</a>"
+msgstr ""
+
+.../functions.php:332
+msgid "Project saved."
+msgstr ""
+
+.../functions.php:333
+#, php-format
+msgid "Project submitted. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr ""
+
+.../functions.php:334
+#, php-format
+msgid ""
+"Project scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview project</a>"
+msgstr ""
+
+.../functions.php:336
+msgid "M j, Y @ G:i"
+msgstr ""
+
+.../functions.php:337
+#, php-format
+msgid ""
+"Project draft updated. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr ""
+
+.../header.php:189
+msgid "404 Error"
+msgstr ""
+
+.../header.php:193
+msgid ""
+"The page you are looking for could not be found. Search what you are looking "
+"for or check out my latest work below."
+msgstr ""
+
+.../header.php:198
+msgid "Results for"
+msgstr ""
+
+.../header.php:201
+#: Themes/Wordpress/wp-content/themes/Creaytve/header.php:204
+#: Themes/Wordpress/wp-content/themes/Creaytve/header.php:207
+#: Themes/Wordpress/wp-content/themes/Creaytve/header.php:210
+#: Themes/Wordpress/wp-content/themes/Creaytve/header.php:213
+msgid "Archive:"
+msgstr ""
+
+.../index.php:36
+msgid ""
+"<div class=\"post-nav-right off\"><i class=\"icon-angle-right\"></i></div>"
+msgstr ""
+
+.../index.php:41
+msgid "<div class=\"post-nav-left\"><i class=\"icon-angle-left\"></i></div>"
+msgstr ""
+
+.../includes/metabox/init.php:633
+msgid "Please Try Again"
+msgstr ""
+
+.../includes/metabox/init.php:650
+msgid "Remove Embed"
+msgstr ""
+
+.../includes/metabox/init.php:656
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""

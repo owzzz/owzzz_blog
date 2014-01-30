@@ -1,4 +1,2 @@
-owzzz_blog
+Personal Blog & Portfolio Site
 ==========
-
-Personal Portfolio / Blog Site
